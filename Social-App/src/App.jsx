@@ -1,11 +1,11 @@
 
 import PostCard from './components/PostCard';
-import SocialApp from './components/SocialApp';
+import Navbar from './components/Navbar';
 function App() {
   
   return (
     <>
-      <SocialApp/>
+      <Navbar/>
       <PostCard/>
     </>
   )
